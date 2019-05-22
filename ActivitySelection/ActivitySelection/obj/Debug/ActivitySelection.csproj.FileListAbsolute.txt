@@ -1,0 +1,20 @@
+C:\Users\srusu\Desktop\ActivitySelection\ActivitySelection\bin\Debug\ActivitySelection.exe.config
+C:\Users\srusu\Desktop\ActivitySelection\ActivitySelection\bin\Debug\ActivitySelection.exe
+C:\Users\srusu\Desktop\ActivitySelection\ActivitySelection\bin\Debug\ActivitySelection.pdb
+C:\Users\srusu\Desktop\ActivitySelection\ActivitySelection\obj\Debug\ActivitySelection.csprojResolveAssemblyReference.cache
+C:\Users\srusu\Desktop\ActivitySelection\ActivitySelection\obj\Debug\ActivitySelection.exe
+C:\Users\srusu\Desktop\ActivitySelection\ActivitySelection\obj\Debug\ActivitySelection.pdb
+C:\Users\stefa\Desktop\ActivitySelection\ActivitySelection\bin\Debug\ActivitySelection.exe.config
+C:\Users\stefa\Desktop\ActivitySelection\ActivitySelection\bin\Debug\ActivitySelection.exe
+C:\Users\stefa\Desktop\ActivitySelection\ActivitySelection\bin\Debug\ActivitySelection.pdb
+C:\Users\stefa\Desktop\ActivitySelection\ActivitySelection\obj\Debug\ActivitySelection.csprojResolveAssemblyReference.cache
+C:\Users\stefa\Desktop\ActivitySelection\ActivitySelection\obj\Debug\ActivitySelection.csproj.CoreCompileInputs.cache
+C:\Users\stefa\Desktop\ActivitySelection\ActivitySelection\obj\Debug\ActivitySelection.exe
+C:\Users\stefa\Desktop\ActivitySelection\ActivitySelection\obj\Debug\ActivitySelection.pdb
+C:\Users\stefa\Desktop\Stefana Rusu - Assignment 4\ActivitySelection\ActivitySelection\bin\Debug\ActivitySelection.exe.config
+C:\Users\stefa\Desktop\Stefana Rusu - Assignment 4\ActivitySelection\ActivitySelection\bin\Debug\ActivitySelection.exe
+C:\Users\stefa\Desktop\Stefana Rusu - Assignment 4\ActivitySelection\ActivitySelection\bin\Debug\ActivitySelection.pdb
+C:\Users\stefa\Desktop\Stefana Rusu - Assignment 4\ActivitySelection\ActivitySelection\obj\Debug\ActivitySelection.csprojResolveAssemblyReference.cache
+C:\Users\stefa\Desktop\Stefana Rusu - Assignment 4\ActivitySelection\ActivitySelection\obj\Debug\ActivitySelection.csproj.CoreCompileInputs.cache
+C:\Users\stefa\Desktop\Stefana Rusu - Assignment 4\ActivitySelection\ActivitySelection\obj\Debug\ActivitySelection.exe
+C:\Users\stefa\Desktop\Stefana Rusu - Assignment 4\ActivitySelection\ActivitySelection\obj\Debug\ActivitySelection.pdb
